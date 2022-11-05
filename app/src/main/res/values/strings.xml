@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Duotel Widget</string>
+    
+    <string name="environmental_monitor">环境监测</string>
+
+    <string name="current_temperature">房间温度\n</string>
+    <string name="current_humidity">房间湿度\n</string>
+
+    <string name="unknown">--</string>
+
+    <string name="celsius">&#160;℃</string>
+    <string name="percentage">&#160;%</string>
+
+    <string name="update">正在获取数据…</string>
+
+    <string name="settings_title">Duotel Widget 设置</string>
+    <string name="update_time">刷新数据的间隔时间 (毫秒)</string>
+
+    <string name="OK">OK</string>
+</resources>
